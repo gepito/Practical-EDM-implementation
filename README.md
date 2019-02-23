@@ -12,3 +12,7 @@ __You are using it on your own risk.__
 ### !!! WARNING !!!
 
 [You may find excellent practical information on EDM technology for designers, engineers and machinists here.](http://reliableedm.com/handbook.php)
+
+This is a project in progress which I make in my spare time with several other projects in paralell.  
+Please watch, and give feedback if you like this topic.  
+If many are interested, I will increase the proirity :)
