@@ -15,4 +15,9 @@ __You are using it on your own risk.__
 
 This is a project in progress which I make in my spare time with several other projects in paralell.  
 Please watch, and give feedback if you like this topic.  
-If many are interested, I will increase the proirity :)
+When I see interest, I will increase the proirity :)
+
+License is granted for nonprofit use.  
+For other uses please contact the maintainer.  
+Agreeing on a fair consultancy plan provide you clean conscience and value for your expense.
+
