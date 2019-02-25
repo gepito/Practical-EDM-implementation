@@ -5,7 +5,8 @@ This process is so versatile and it couples mechanics with electricity. Two prin
 Having strong electric background I thought I may contribute by some improvements to the existing designs.
 
 ### !!! WARNING !!!
-__EDM is using high voltage. It is DAGEROUS even LETHAL in some cases.__  
+__EDM is using high voltage.__  
+__High voltage is DAGEROUS. Possibly even LETHAL.__  
 __Do not begin such project without solid electric background!__  
 __Documents hereby provided AS IS without any kind of warranty expressed or implied.__  
 __You are using it on your own risk.__  
