@@ -1,0 +1,42 @@
+# 01_basic
+
+first trial to switch on LT124x
+final schema is lt1241-bare.sch, circuit built on prototype panel
+2 ICs been trashed during trials
+setup been finalised while patching application circuit for partially broken one
+
+c1: Vref(8)
+c2: Isense(3)
+c3: Vout(6)
+c4: Vosc(4)
+
+IC1:LT1244
+Ucc = 16V
+Icc = 90 mA
+temperature rise to 100C in 5 sec !?
+
+Meas 1-3 taken at steady state (t=100C)
+
+Meas 4-6 taken at switch on
+	- out is activated in (almost each clock periode!?
+
+Circuit was built on breadboard (what is discouraged anyway)
+
+
+Meas 7-8 R3>1M as if output was not sinking!?
+
+---------------
+
+Meas 10-11 new lt1244 performs as expected!!!
+
+Meas 12 steady state
+
+Icc = 18 mA
+no excessive heating
+t=40C
+R3>1M
+
+Meas 13-14 : IC1:LT1245
+Ucc=12V
+Icc=18mA
+
